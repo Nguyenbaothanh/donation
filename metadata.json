@@ -1,0 +1,5 @@
+{
+  "name": "Charity Connect",
+  "description": "A platform to connect donors with those in need, facilitating the giving and receiving of charitable goods. Users can donate items, track their donation history, and administrators can manage incoming contributions.",
+  "requestFramePermissions": []
+}
